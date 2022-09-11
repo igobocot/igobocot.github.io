@@ -1,5 +1,5 @@
 # igobocot.github.io
-
+~$ git clone https://github.com/igobocot/igobocot.github.io
 
 ![1)](https://user-images.githubusercontent.com/113144667/189237351-fae45088-f531-449e-b6eb-a40c0e9db0bf.jpg)
 ![Untitled design w](https://user-images.githubusercontent.com/113144667/189245024-e84de366-9ea5-485e-8080-eb71a6744aa9.png)
